@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"grid",
+				"grid-area\tproperty"
+			],
+			[
+				"int",
+				"intro"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"nav",
+				"nav__link"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"na",
+				"nav__link"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"cl",
+				"clr-dark"
+			],
+			[
+				"fs",
+				"fs-h2"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"f",
+				"flex\tproperty"
+			],
+			[
+				"clr",
+				"clr-dark"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"gri",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"gr",
+				"grid-row\tproperty"
+			],
+			[
+				"about-me",
+				"about-me__body"
+			],
+			[
+				"ou",
+				"outline-offset\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"grud",
+				"grid-column\tproperty"
+			],
+			[
+				"grip",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"fw",
+				"fw-bold"
+			],
+			[
+				"ff",
+				"ff-secondary"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ff-",
+				"ff-primary"
+			],
+			[
+				"clr-",
+				"clr-light"
+			],
+			[
+				"por",
+				"Portfolio--item"
+			],
+			[
+				"sec",
+				"section__subtitle"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"ab",
+				"about"
+			],
+			[
+				"se",
+				"services"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"con",
+				"contract"
+			],
+			[
+				"a",
+				"address"
+			],
+			[
+				"ne",
+				"networkData"
+			],
+			[
+				"C",
+				"Chain"
+			],
+			[
+				"n",
+				"networkData"
+			],
+			[
+				"ac",
+				"account"
+			],
+			[
+				"acc",
+				"accounts"
+			],
+			[
+				"com",
+				"Component"
+			],
+			[
+				"e",
+				"ethereum"
+			],
+			[
+				"ch",
+				"chainHash"
+			],
+			[
+				"as",
+				"assert"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"temp",
+				"temperature"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"new file",
+				"File: New View into File"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sony/Desktop/rohit/Protfolio web/css/style.css",
+		"/C/Users/sony/Desktop/rohit/Protfolio web/js/index.js",
+		"/C/Users/sony/Desktop/rohit/Protfolio web/index.html",
+		"/C/Users/sony/block/migrations/1_initial_migration.js",
+		"/C/Users/sony/block/src/contracts/Migrations.sol",
+		"/C/Users/sony/block/src/components/App.css",
+		"/C/Users/sony/Desktop/api/temp/update.php",
+		"/C/Users/sony/Desktop/api/temp/specific.php",
+		"/C/Users/sony/Desktop/api/temp/read_all.php",
+		"/C/Users/sony/Desktop/api/temp/delete.php",
+		"/C/Users/sony/Desktop/bino/assignment3/css/insert.php",
+		"/C/Users/sony/Desktop/package.json",
+		"/C/Users/sony/Desktop/bino/assignment3/bootstrap.js",
+		"/C/Users/sony/Desktop/bino/assignment3/css/style.css",
+		"/C/Users/sony/Desktop/bino/assignment3/logout_script.php",
+		"/C/Users/sony/Desktop/bino/assignment3/js/jquery.js",
+		"/C/Users/sony/Desktop/bino/assignment3/css/bootstrap.css",
+		"/C/Users/sony/Desktop/bino/assignment3/login.php",
+		"/C/Users/sony/Desktop/cal.py",
+		"/C/Users/sony/Desktop/bino/assignment3/index.php",
+		"/C/Users/sony/Desktop/bino/assignment3/signup.php",
+		"/C/Users/sony/Desktop/website/index.html",
+		"/C/Users/sony/Desktop/website/do.css"
+	],
+	"find":
+	{
+		"height": 41.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
